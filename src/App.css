@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+
+.One{
+
+  text-align : center;
+  background-color: olive;
+  color : white;
+  width :60%;
+  align : center;
+  margin : 10px auto;
+  padding:15px;
+
+}
+
+.Box{
+  border: 2px solid black;
+  border-radius : 5px;
+  padding : 10px;
+  align : center; 
+  box-shadow : 0 5px 5px #eee;
+  margin : 10px auto;
+  width : 100px;
+  background :green;
+}

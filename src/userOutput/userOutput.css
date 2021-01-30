@@ -1,0 +1,17 @@
+.demo
+{
+    border : 2px solid #eee;
+    border-radius: 6px;
+    text-align: center;
+    /* float:left; */
+    box-shadow: 0 3px 3px #ddd;
+    width : 60%;
+    margin : 10px auto;
+    padding: 15px;
+}
+#demo1
+{
+    color : white;
+    background-color: black;
+    padding: 3px;
+}
